@@ -9,7 +9,7 @@
     <ImageView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/applogo"
+        android:src="@drawable/marwadilogo"
         android:layout_marginBottom="24dp"/>
 
     <TextView
